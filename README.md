@@ -7,6 +7,7 @@ O robô **mh001** é um kit DIY para aprendizado em eletrônica, programação e
 # Wiki (documentação)
 
 Toda a documentação detalhada do projeto **mh001**, com tutoriais e exemplos de códigos, estará centralizada na **wiki** deste repositório.
+
 [![wiki_mh001](https://raw.githubusercontent.com/makerhubbr/mh001/master/imagens/wiki_mh001.png)](https://github.com/MakerHubBR/mh001/wiki)
 
 
