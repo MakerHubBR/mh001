@@ -5,3 +5,5 @@ Se você está fazendo, ou planeja fazer, algo interessante com este projeto, ou
 **Kleber Lima da Silva**
 Fundador e Engenheiro de Hardware - MakerHub
 kleber@makerhub.com.br
+
+**PCBWay shared project:** https://www.pcbway.com/project/shareproject/mh001_V1_1.html
